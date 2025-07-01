@@ -1,0 +1,52 @@
+________________________________ What Are Data Structures? _________________________________________
+
+Data Structures are special ways to store, organize, and manage data in a computer so that we can use the data easily and efficiently.
+
+-> When we need to add, remove, search, or sort data, data structures help us to do that quickly.
+
+
+
+_________________________________ Examples of Common Data Structures ________________________________
+
+1. Array
+ -> A list where data is stored in order.
+ -> Example: [10, 20, 30, 40]
+
+2. Linked list
+ -> Data is stored in nodes where each node points to the next one.
+ -> like a chain
+
+3. Stack
+ -> Follow Last in, First out (LIFO).
+ -> Like a stack of plates: the last plate you put on the first you take off.
+
+4. Queue
+ -> Follow First in, First out (FIFO)
+ -> Like a waiting line: the first person in the line is served first.
+
+5. Tree
+ -> Data is stored like branches of a Tree
+ -> Example: Family Tree
+
+6. Graph
+ -> Data is stored as connections between nodes.
+ -> Example: Social networks like facebook.
+
+7. Hash table (Dictionary)
+ -> Data is stored using a key to quickly find values.
+ -> Exampl: Phonebook (Name:Phone Number)
+
+
+
+
+ 🚀 Example in Real Life:
+
+    📱 Contact list on your phone → Array or Dictionary
+
+    🗂️ Stack of files → Stack
+
+    🎫 Queue at a ticket counter → Queue
+
+    👨‍👩‍👧 Family tree → Tree
+
+    🌐 Social networks → Graph
